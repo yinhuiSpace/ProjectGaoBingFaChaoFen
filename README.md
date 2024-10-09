@@ -18,11 +18,3 @@
 制作第一个原型，包括了地图，炒粉机，出餐口，传送带；
 
 形成游戏闭环，当卖出25份炒粉时游戏结束
-
-![原型1](https://github.com/user-attachments/assets/d0cfb19e-f05f-4bb6-b49d-6a78c8f809f0)
-![image](https://github.com/user-attachments/assets/d8619ec7-0b7e-4f42-ba06-eeeb2a07748c)
-![image](https://github.com/user-attachments/assets/73d633be-3151-49cb-a663-4b38b7f216b0)
-
-
-
-
