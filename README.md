@@ -20,3 +20,5 @@
 形成游戏闭环，当卖出25份炒粉时游戏结束
 
 ![原型1](https://github.com/user-attachments/assets/d0cfb19e-f05f-4bb6-b49d-6a78c8f809f0)
+![image](https://github.com/user-attachments/assets/b090eecc-02b5-4f02-b203-4cacc912521b)
+
