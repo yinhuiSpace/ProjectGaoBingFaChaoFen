@@ -29,3 +29,6 @@
 
 ![image](https://github.com/user-attachments/assets/b090eecc-02b5-4f02-b203-4cacc912521b)
 
+- 2024.10.12
+
+客人A*寻路
